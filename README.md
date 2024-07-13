@@ -5,6 +5,6 @@
 <h3 align="left">Технологии:</h3>
 
 <div align="left">
-  <img src="icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
   <img width="12" />
 </div>
